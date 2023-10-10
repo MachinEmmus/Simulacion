@@ -1,3 +1,7 @@
+//Desarrollado Por: Emmanuel Monsalve
+// Fecha: 20 Agosto 2023
+// Stickman Quietesitobitch
+
 // Definición de Variables
 
 void setup(){

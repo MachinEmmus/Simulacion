@@ -1,3 +1,7 @@
+//Desarrollado Por: Emmanuel Monsalve
+// Fecha: 20 Agosto 2023
+// Primeras 2 pelotas de un lado a otro
+
 // Definición de varaibles
 
 int x,y = 0;

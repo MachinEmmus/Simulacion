@@ -1,3 +1,7 @@
+//Desarrollado Por: Emmanuel Monsalve
+// Fecha: 20 Agosto 2023
+// Arrow loca no sé que hace
+
 float x = 0; // Posición inicial x
 float y = 50; // Posición inicial y
 float speedX = 2; // Velocidad en dirección x

@@ -1,3 +1,7 @@
+//Desarrollado Por: Emmanuel Monsalve
+// Fecha: 20 Agosto 2023
+// Stickman con movimiento de flechas
+
 float stickmanX = 200; // Posición horizontal del stickman
 float stickmanY = 200; // Posición vertical del stickman
 
